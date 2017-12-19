@@ -1,0 +1,10 @@
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.deps.json
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.runtimeconfig.json
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.runtimeconfig.dev.json
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.dll
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\bin\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.csproj.CoreCompileInputs.cache
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfoInputs.cache
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.AssemblyInfo.cs
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.dll
+C:\SJ Learning\aws-lex-net-chatbot-master (2)\aws-lex-net-chatbot-master\Code\dotnetLexChatBot\obj\Debug\netcoreapp1.1\dotnetLexChatBot.pdb
